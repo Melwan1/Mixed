@@ -1,0 +1,9 @@
+int main(string list args) {
+    if (true) {
+        display("It is true.");
+    }
+    else {
+        display("It is false.");
+    }
+    return 0;
+}
