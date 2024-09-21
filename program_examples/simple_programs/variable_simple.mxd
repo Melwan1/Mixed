@@ -1,0 +1,4 @@
+int main(string list args) {
+    var x = 14;
+    return x - 7 * 2;
+}
