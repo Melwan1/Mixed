@@ -1,0 +1,3 @@
+int main(string list args) {
+    return 0 * (1 + 12 // (4 - 2));
+}
