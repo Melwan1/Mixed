@@ -1,0 +1,4 @@
+int main(string list args) {
+    display("This is the main function");
+    return 0;
+}
