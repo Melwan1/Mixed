@@ -1,0 +1,6 @@
+void do_action(string arg) {
+    match (arg) {
+        case "print": display("hey!");
+        case default: display("default.");
+    }
+}
