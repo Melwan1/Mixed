@@ -1,0 +1,11 @@
+void count_from_ten() {
+    int count = 10;
+    while (count >= 0) {
+        display(count);
+        count--;
+    }
+}
+
+int main() {
+    count_from_ten()
+}
