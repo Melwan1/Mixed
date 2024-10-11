@@ -1,4 +1,4 @@
-int main(string list args) {
+int main(list<string> args) {
     if (true) {
         display("It is true.");
     }

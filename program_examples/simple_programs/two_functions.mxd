@@ -2,7 +2,7 @@ string other_function() {
     return "Yay!";
 }
 
-int main(string list args) {
+int main(list<string> args) {
     display(other_function());
     return 0;
 }

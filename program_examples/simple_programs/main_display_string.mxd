@@ -1,4 +1,4 @@
-int main(string list args) {
+int main(list<string> args) {
     display("This is the main function");
     return 0;
 }
