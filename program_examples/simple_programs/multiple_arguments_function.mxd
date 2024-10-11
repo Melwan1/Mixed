@@ -1,0 +1,7 @@
+int add_all_arguments(int arg1, int arg2, int arg3) {
+    return arg1 + arg2 + arg3;
+}
+
+int main() {
+    display(add_all_arguments(1, 2, 3)) // 6
+}
