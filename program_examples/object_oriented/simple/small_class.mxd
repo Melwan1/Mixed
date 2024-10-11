@@ -5,7 +5,7 @@ class SmallClass {
             this.value = 1;
         }
 
-        int getValue() {
+        int get_value() {
             return this.value;
         }
 

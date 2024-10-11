@@ -4,7 +4,7 @@ class BaseClass {
             this.value = value;
         }
 
-        int getValue() {
+        int get_value() {
             return this.value;
         }
 
@@ -18,7 +18,7 @@ class DerivedClass : BaseClass {
             super.BaseClass(2 * value)
         }
 
-        void setValue(int value) {
+        void set_value(int value) {
             this.value = value;
         }
 }
