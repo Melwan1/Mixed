@@ -1,0 +1,7 @@
+void do_something(int number) {
+    match (number) {
+        0: display("zero");
+        1: display("one");
+        default;
+    }
+}
