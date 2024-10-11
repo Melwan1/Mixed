@@ -1,0 +1,11 @@
+class SmallClass {
+    int value;
+
+    public SmallClass() {
+        value = 1;
+    }
+
+    public getValue() {
+        this.value;
+    }
+}
