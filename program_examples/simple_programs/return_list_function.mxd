@@ -1,0 +1,12 @@
+list return_list_empty() {
+    return []
+}
+
+int list return_list_integers(int i1, int i2) {
+    return [i1, i2]
+}
+
+int main() {
+    display(return_list_integers(1, 2));
+    display(return_list_empty());
+}
