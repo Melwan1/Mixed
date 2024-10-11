@@ -1,11 +1,14 @@
 class SmallClass {
-    int value;
 
-    public SmallClass() {
-        this.value = 1;
-    }
+    public:
+        SmallClass() {
+            this.value = 1;
+        }
 
-    public getValue() {
-        return this.value;
-    }
+        int getValue() {
+            return this.value;
+        }
+
+    private:
+        int value;
 }
